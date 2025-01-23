@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm **Ashhar Khalid**, a passionate **Computer Engineering
 ## 📬 Contact Me
 Feel free to reach out for collaboration, discussions, or just to say hello!  
 - 📧 **Email**: [mrashharkhalid@gmail.com](mailto:mrashharkhalid@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/ashharkhalid](https://www.linkedin.com/in/ashharkhalid/)
+- 💼 **LinkedIn**: [linkedin.com/in/ashharkhalid02](https://www.linkedin.com/in/ashharkhalid02/)
 
 
 ---
