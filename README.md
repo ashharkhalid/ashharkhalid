@@ -1,19 +1,13 @@
-<h1 align="center">Hi 👋, I'm ASHHAR KHALID</h1>
-<h3 align="center">A passionate Data Analyst and Data Science From India</h3>
+# ASH HAR KHALID
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashharkhalid&label=Profile%20views&color=0e75b6&style=flat" alt="ashharkhalid" /> </p>
+Welcome to my GitHub! I'm **Ashhar Khalid**, a passionate **Computer Engineering student** with a deep interest in **Machine Learning**, **Data Science**, and **Data Analyst**. I thrive on turning raw data into powerful stories and actionable insights. Passionate about analytics, machine learning, and continuous learning. Always looking to collaborate and innovate. Let’s dive into the data together! 📈🔍"
 
-- 📫 How to reach me **mrashharkhalid@gmail.com**
 
-- ⚡ Fun fact **I believe every dataset tells a story, and I’m on a mission to uncover it!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashharkhalid02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashharkhalid02/" height="30" width="40" /></a>
-</p>
+## 🛠️ Skills
 
-<h3 align="left">Languages and Tools:</h3>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -32,9 +26,18 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashharkhalid&show_icons=true&locale=en&layout=compact" alt="ashharkhalid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashharkhalid&show_icons=true&locale=en" alt="ashharkhalid" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashharkhalid&" alt="ashharkhalid" /></p>
+## 📬 Contact Me
+Feel free to reach out for collaboration, discussions, or just to say hello!  
+- 📧 **Email**: [mrashharkhalid@gmail.com](mailto:mrashharkhalid@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/ashharkhalid](https://www.linkedin.com/in/ashharkhalid/)
+
+
+---
+
+Thank you for visiting my GitHub profile! I hope my work inspires and helps you in your projects.😊
+---
+
 
