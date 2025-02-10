@@ -38,6 +38,7 @@ Welcome to my GitHub! I'm **Ashhar Khalid**, a passionate **Computer Engineering
 Feel free to reach out for collaboration, discussions, or just to say hello!  
 - 📧 **Email**: [mrashharkhalid@gmail.com](mailto:mrashharkhalid@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/ashharkhalid02](https://www.linkedin.com/in/ashharkhalid02/)
+- 📖 **Portfolio**: [ashhar-khalid-portfolio](ashhar-khalid-portfolio.netlify.app)
 
 
 ---
