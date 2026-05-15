@@ -1,7 +1,7 @@
 # ASH HAR KHALID
 
 
-Welcome to my GitHub! I'm **Ashhar Khalid**, a passionate **Computer Engineering student** with a deep interest in **Machine Learning**, **Data Science**, and **Data Analyst**. I thrive on turning raw data into powerful stories and actionable insights. Passionate about analytics, machine learning, and continuous learning. Always looking to collaborate and innovate. Let’s dive into the data together! 📈🔍"
+Welcome to my GitHub! I'm **Ashhar Khalid**, a passionate **Computer Engineer** with a deep interest in **Machine Learning**, **Data Science**, and **Data Analyst**. I thrive on turning raw data into powerful stories and actionable insights. Passionate about analytics, machine learning, and continuous learning. Always looking to collaborate and innovate. Let’s dive into the data together! 📈🔍"
 
 
 ---
